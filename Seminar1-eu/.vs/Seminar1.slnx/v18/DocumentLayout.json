@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cursuri\\fACULTATE\\PAW\\Seminar1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E286EB-39F6-4FB5-A6D2-447ED76FD1F5}|Seminar1 - POO recap.csproj|d:\\cursuri\\facultate\\paw\\seminar1\\biletstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3E286EB-39F6-4FB5-A6D2-447ED76FD1F5}|Seminar1 - POO recap.csproj|solutionrelative:biletstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E286EB-39F6-4FB5-A6D2-447ED76FD1F5}|Seminar1 - POO recap.csproj|D:\\Cursuri\\fACULTATE\\PAW\\Seminar1\\bilet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3E286EB-39F6-4FB5-A6D2-447ED76FD1F5}|Seminar1 - POO recap.csproj|solutionrelative:bilet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E286EB-39F6-4FB5-A6D2-447ED76FD1F5}|Seminar1 - POO recap.csproj|D:\\Cursuri\\fACULTATE\\PAW\\Seminar1\\ivalidabil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3E286EB-39F6-4FB5-A6D2-447ED76FD1F5}|Seminar1 - POO recap.csproj|solutionrelative:ivalidabil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E286EB-39F6-4FB5-A6D2-447ED76FD1F5}|Seminar1.csproj|D:\\Cursuri\\fACULTATE\\PAW\\Seminar1\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3E286EB-39F6-4FB5-A6D2-447ED76FD1F5}|Seminar1.csproj|solutionrelative:client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E286EB-39F6-4FB5-A6D2-447ED76FD1F5}|Seminar1 - POO recap.csproj|D:\\Cursuri\\fACULTATE\\PAW\\Seminar1\\tipfilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3E286EB-39F6-4FB5-A6D2-447ED76FD1F5}|Seminar1 - POO recap.csproj|solutionrelative:tipfilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E286EB-39F6-4FB5-A6D2-447ED76FD1F5}|Seminar1 - POO recap.csproj|D:\\Cursuri\\fACULTATE\\PAW\\Seminar1\\ipretcalculabil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3E286EB-39F6-4FB5-A6D2-447ED76FD1F5}|Seminar1 - POO recap.csproj|solutionrelative:ipretcalculabil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E286EB-39F6-4FB5-A6D2-447ED76FD1F5}|Seminar1.csproj|D:\\Cursuri\\fACULTATE\\PAW\\Seminar1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3E286EB-39F6-4FB5-A6D2-447ED76FD1F5}|Seminar1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BiletStudent.cs",
+              "DocumentMoniker": "D:\\Cursuri\\fACULTATE\\PAW\\Seminar1\\BiletStudent.cs",
+              "RelativeDocumentMoniker": "BiletStudent.cs",
+              "ToolTip": "D:\\Cursuri\\fACULTATE\\PAW\\Seminar1\\BiletStudent.cs",
+              "RelativeToolTip": "BiletStudent.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAlwCYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T09:54:10.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TipFilm.cs",
+              "DocumentMoniker": "D:\\Cursuri\\fACULTATE\\PAW\\Seminar1\\TipFilm.cs",
+              "RelativeDocumentMoniker": "TipFilm.cs",
+              "ToolTip": "D:\\Cursuri\\fACULTATE\\PAW\\Seminar1\\TipFilm.cs",
+              "RelativeToolTip": "TipFilm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T09:39:05.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bilet.cs",
+              "DocumentMoniker": "D:\\Cursuri\\fACULTATE\\PAW\\Seminar1\\Bilet.cs",
+              "RelativeDocumentMoniker": "Bilet.cs",
+              "ToolTip": "D:\\Cursuri\\fACULTATE\\PAW\\Seminar1\\Bilet.cs",
+              "RelativeToolTip": "Bilet.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAApwB8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T09:31:22.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IValidabil.cs",
+              "DocumentMoniker": "D:\\Cursuri\\fACULTATE\\PAW\\Seminar1\\IValidabil.cs",
+              "RelativeDocumentMoniker": "IValidabil.cs",
+              "ToolTip": "D:\\Cursuri\\fACULTATE\\PAW\\Seminar1\\IValidabil.cs",
+              "RelativeToolTip": "IValidabil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T09:30:43.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPretCalculabil.cs",
+              "DocumentMoniker": "D:\\Cursuri\\fACULTATE\\PAW\\Seminar1\\IPretCalculabil.cs",
+              "RelativeDocumentMoniker": "IPretCalculabil.cs",
+              "ToolTip": "D:\\Cursuri\\fACULTATE\\PAW\\Seminar1\\IPretCalculabil.cs",
+              "RelativeToolTip": "IPretCalculabil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T09:27:54.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\Cursuri\\fACULTATE\\PAW\\Seminar1\\Client.cs",
+              "RelativeDocumentMoniker": "Client.cs",
+              "ToolTip": "D:\\Cursuri\\fACULTATE\\PAW\\Seminar1\\Client.cs",
+              "RelativeToolTip": "Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T09:09:52.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Cursuri\\fACULTATE\\PAW\\Seminar1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Cursuri\\fACULTATE\\PAW\\Seminar1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAlwA4AAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T09:09:01.051Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\sebip\Desktop\Seminar1\bin\Debug\Seminar1.exe.config
+C:\Users\sebip\Desktop\Seminar1\bin\Debug\Seminar1.exe
+C:\Users\sebip\Desktop\Seminar1\bin\Debug\Seminar1.pdb
+C:\Users\sebip\Desktop\Seminar1\obj\Debug\Seminar1 - POO recap.csproj.AssemblyReference.cache
+C:\Users\sebip\Desktop\Seminar1\obj\Debug\Seminar1 - POO recap.csproj.CoreCompileInputs.cache
+C:\Users\sebip\Desktop\Seminar1\obj\Debug\Seminar1.exe
+C:\Users\sebip\Desktop\Seminar1\obj\Debug\Seminar1.pdb
