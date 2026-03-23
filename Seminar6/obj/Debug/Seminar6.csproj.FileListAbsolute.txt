@@ -1,0 +1,10 @@
+D:\Cursuri\fACULTATE\PAW\Seminar6\bin\Debug\Seminar6.exe.config
+D:\Cursuri\fACULTATE\PAW\Seminar6\bin\Debug\Seminar6.exe
+D:\Cursuri\fACULTATE\PAW\Seminar6\bin\Debug\Seminar6.pdb
+D:\Cursuri\fACULTATE\PAW\Seminar6\obj\Debug\Seminar6.csproj.AssemblyReference.cache
+D:\Cursuri\fACULTATE\PAW\Seminar6\obj\Debug\Seminar6.Form1.resources
+D:\Cursuri\fACULTATE\PAW\Seminar6\obj\Debug\Seminar6.Properties.Resources.resources
+D:\Cursuri\fACULTATE\PAW\Seminar6\obj\Debug\Seminar6.csproj.GenerateResource.cache
+D:\Cursuri\fACULTATE\PAW\Seminar6\obj\Debug\Seminar6.csproj.CoreCompileInputs.cache
+D:\Cursuri\fACULTATE\PAW\Seminar6\obj\Debug\Seminar6.exe
+D:\Cursuri\fACULTATE\PAW\Seminar6\obj\Debug\Seminar6.pdb
