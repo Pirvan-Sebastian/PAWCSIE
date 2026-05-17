@@ -1,0 +1,15 @@
+﻿INSERT INTO [dbo].[Table](Id, Titlu, Autor, AnAparitie, Gen) VALUES
+(NEWID(), N'Mândrie și prejudecată', N'Jane Austen', 1813, N'Roman'),
+(NEWID(), N'Război și pace', N'Lev Tolstoi', 1869, N'Roman'),
+(NEWID(), N'Crimă și pedeapsă', N'Feodor Dostoievski', 1866, N'Roman'),
+(NEWID(), N'Don Quijote', N'Miguel de Cervantes', 1605, N'Roman'),
+(NEWID(), N'Marele Gatsby', N'F. Scott Fitzgerald', 1925, N'Roman'),
+(NEWID(), N'Originea speciilor', N'Charles Darwin', 1859, N'Stiinta'),
+(NEWID(), N'Scurtă istorie a timpului', N'Stephen Hawking', 1988, N'Stiinta'),
+(NEWID(), N'Dune', N'Frank Herbert', 1965, N'Fictiune'),
+(NEWID(), N'1984', N'George Orwell', 1949, N'Fictiune'),
+(NEWID(), N'Viața mea', N'Charlie Chaplin', 1964, N'Biografie'),
+(NEWID(), N'Clean Code', N'Robert C. Martin', 2008, N'Tehnic'),
+(NEWID(), N'Design Patterns', N'Erich Gamma', 1994, N'Tehnic'),
+(NEWID(), N'Povestiri zen', N'Nyogen Senzaki', 1939, N'Altele'),
+(NEWID(), N'Cartea curiozităților', N'National Geographic', 2012, N'Altele')

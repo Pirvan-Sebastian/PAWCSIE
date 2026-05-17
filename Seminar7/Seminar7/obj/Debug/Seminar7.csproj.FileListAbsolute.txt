@@ -1,0 +1,11 @@
+D:\ASE\Github\PAW\Seminar7\Seminar7\bin\Debug\Seminar6.exe.config
+D:\ASE\Github\PAW\Seminar7\Seminar7\bin\Debug\Seminar6.exe
+D:\ASE\Github\PAW\Seminar7\Seminar7\bin\Debug\Seminar6.pdb
+D:\ASE\Github\PAW\Seminar7\Seminar7\obj\Debug\Seminar7.csproj.AssemblyReference.cache
+D:\ASE\Github\PAW\Seminar7\Seminar7\obj\Debug\Seminar7.Form1.resources
+D:\ASE\Github\PAW\Seminar7\Seminar7\obj\Debug\Seminar7.FormCarte.resources
+D:\ASE\Github\PAW\Seminar7\Seminar7\obj\Debug\Seminar6.Properties.Resources.resources
+D:\ASE\Github\PAW\Seminar7\Seminar7\obj\Debug\Seminar7.csproj.GenerateResource.cache
+D:\ASE\Github\PAW\Seminar7\Seminar7\obj\Debug\Seminar7.csproj.CoreCompileInputs.cache
+D:\ASE\Github\PAW\Seminar7\Seminar7\obj\Debug\Seminar6.exe
+D:\ASE\Github\PAW\Seminar7\Seminar7\obj\Debug\Seminar6.pdb

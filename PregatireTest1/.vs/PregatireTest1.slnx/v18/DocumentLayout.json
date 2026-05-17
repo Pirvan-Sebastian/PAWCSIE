@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cursuri\\fACULTATE\\PAW\\PregatireTest1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B83017B-5F98-443B-B815-BC60C067DDA4}|PregatireTest1.csproj|d:\\cursuri\\facultate\\paw\\pregatiretest1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B83017B-5F98-443B-B815-BC60C067DDA4}|PregatireTest1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B83017B-5F98-443B-B815-BC60C067DDA4}|PregatireTest1.csproj|d:\\cursuri\\facultate\\paw\\pregatiretest1\\formadaugare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B83017B-5F98-443B-B815-BC60C067DDA4}|PregatireTest1.csproj|solutionrelative:formadaugare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B83017B-5F98-443B-B815-BC60C067DDA4}|PregatireTest1.csproj|d:\\cursuri\\facultate\\paw\\pregatiretest1\\formafisare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B83017B-5F98-443B-B815-BC60C067DDA4}|PregatireTest1.csproj|solutionrelative:formafisare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B83017B-5F98-443B-B815-BC60C067DDA4}|PregatireTest1.csproj|d:\\cursuri\\facultate\\paw\\pregatiretest1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B83017B-5F98-443B-B815-BC60C067DDA4}|PregatireTest1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormAfisare.cs [Design]",
+              "DocumentMoniker": "D:\\Cursuri\\fACULTATE\\PAW\\PregatireTest1\\FormAfisare.cs",
+              "RelativeDocumentMoniker": "FormAfisare.cs",
+              "ToolTip": "D:\\Cursuri\\fACULTATE\\PAW\\PregatireTest1\\FormAfisare.cs [Design]",
+              "RelativeToolTip": "FormAfisare.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T23:43:37.685Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormAdaugare.cs",
+              "DocumentMoniker": "D:\\Cursuri\\fACULTATE\\PAW\\PregatireTest1\\FormAdaugare.cs",
+              "RelativeDocumentMoniker": "FormAdaugare.cs",
+              "ToolTip": "D:\\Cursuri\\fACULTATE\\PAW\\PregatireTest1\\FormAdaugare.cs",
+              "RelativeToolTip": "FormAdaugare.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T23:19:13.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Cursuri\\fACULTATE\\PAW\\PregatireTest1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Cursuri\\fACULTATE\\PAW\\PregatireTest1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAqwC8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T23:08:29.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Cursuri\\fACULTATE\\PAW\\PregatireTest1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Cursuri\\fACULTATE\\PAW\\PregatireTest1\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T23:06:29.003Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

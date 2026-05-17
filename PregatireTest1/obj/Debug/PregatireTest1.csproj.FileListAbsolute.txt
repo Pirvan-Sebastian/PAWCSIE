@@ -1,0 +1,12 @@
+D:\Cursuri\fACULTATE\PAW\PregatireTest1\bin\Debug\PregatireTest1.exe.config
+D:\Cursuri\fACULTATE\PAW\PregatireTest1\bin\Debug\PregatireTest1.exe
+D:\Cursuri\fACULTATE\PAW\PregatireTest1\bin\Debug\PregatireTest1.pdb
+D:\Cursuri\fACULTATE\PAW\PregatireTest1\obj\Debug\PregatireTest1.csproj.AssemblyReference.cache
+D:\Cursuri\fACULTATE\PAW\PregatireTest1\obj\Debug\PregatireTest1.Form1.resources
+D:\Cursuri\fACULTATE\PAW\PregatireTest1\obj\Debug\PregatireTest1.FormAdaugare.resources
+D:\Cursuri\fACULTATE\PAW\PregatireTest1\obj\Debug\PregatireTest1.FormAfisare.resources
+D:\Cursuri\fACULTATE\PAW\PregatireTest1\obj\Debug\PregatireTest1.Properties.Resources.resources
+D:\Cursuri\fACULTATE\PAW\PregatireTest1\obj\Debug\PregatireTest1.csproj.GenerateResource.cache
+D:\Cursuri\fACULTATE\PAW\PregatireTest1\obj\Debug\PregatireTest1.csproj.CoreCompileInputs.cache
+D:\Cursuri\fACULTATE\PAW\PregatireTest1\obj\Debug\PregatireTest1.exe
+D:\Cursuri\fACULTATE\PAW\PregatireTest1\obj\Debug\PregatireTest1.pdb
